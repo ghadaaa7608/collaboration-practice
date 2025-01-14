@@ -2,7 +2,7 @@
 #### 2
 #### 3 We're no strangers to love. You know the rules, and so do I.
 #### 4
-#### 5
+#### 5 It's raining tacos, from out of the sky. Tacos, no need to ask why.
 #### 6
 #### 7
 #### 8
