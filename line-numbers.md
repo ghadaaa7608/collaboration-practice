@@ -6,7 +6,7 @@
 #### 6
 #### 7 A duck walked up to the lemonade stand and he said to the man running the stand.
 #### 8
-#### 9
+#### 9 Github is really good. 
 #### 10
 #### 11
 #### 12
