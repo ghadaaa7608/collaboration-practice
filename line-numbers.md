@@ -4,7 +4,7 @@
 #### 4
 #### 5
 #### 6
-#### 7 What color are the unicorns?
+#### 7 A duck walked up to the lemonade stand and he said to the man running the stand.
 #### 8
 #### 9
 #### 10
