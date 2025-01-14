@@ -4,7 +4,7 @@
 #### 4
 #### 5 It's raining tacos! from out of the sky. Tacos, no need to ask why.
 #### 6
-#### 7
+#### 7 A duck walked up to the lemonade stand and he said to the man running the stand.
 #### 8
 #### 9
 #### 10
