@@ -1,6 +1,6 @@
 #### 1
 #### 2
-#### 3
+#### 3 We're no strangers to love. You know the rules, and so do I.
 #### 4
 #### 5
 #### 6
